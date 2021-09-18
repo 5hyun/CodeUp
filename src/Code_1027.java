@@ -11,6 +11,6 @@ public class Code_1027 {
         int b = Integer.parseInt(ary[1]);
         int c = Integer.parseInt(ary[2]);
 
-        System.out.printf("%d-%02d-%2d", c, b, a);
+        System.out.printf("%02d-%02d-%04d", c, b, a);
     }
 }
