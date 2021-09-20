@@ -7,6 +7,6 @@ public class Code_1038 {
 		long a = sc.nextLong();
 		long b = sc.nextLong();
 		
-		System.out.println(a+b);
+		System.out.println(a + b);
 	}
 }
