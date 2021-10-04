@@ -12,6 +12,7 @@ public class Code_1087 {
 			if(sum>=x)
 				break;
 		}
+		
 		System.out.println(sum);
 	}
 }
